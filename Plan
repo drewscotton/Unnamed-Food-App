@@ -1,0 +1,20 @@
+This app will provide ease of access to those in need in search of food.
+
+Home Screen:
+The main page the app will open up with will be a page to enter your location into. Once the location is entered, it will bring you to the map page where the food areas closest to you will be displayed.
+There will be a toggle menu on the left side with options to either go to the main page, see an actual list of the food locations page, and an about the app page.
+
+Main Page:
+A text box will be at the top center, asking for your location.
+Users will enter their desired location into the input box in the center of the screen.
+After entering your location and hitting enter, the user will be brought to a map centered on their location, with the food locations pinged on the map around them.
+Clicking on these locations will bring you to that specific events details page which will include a description of the event, what date and time the event is available, and the event address.
+
+Listing Page:
+The listing page will be a vertical list of the different events taking place.
+If the user has already entered their location, the listings will be sorted by which is closest to their location.
+If the user hasn't entered their location, the listings will be sorted alphabetically.
+Clicking on a listing will bring you to that events details page.
+
+About Page:
+A simple page where I'll describe why I made this app and how it works.
