@@ -16,5 +16,12 @@ If the user has already entered their location, the listings will be sorted by w
 If the user hasn't entered their location, the listings will be sorted alphabetically.
 Clicking on a listing will bring you to that events details page.
 
+Adding food event page:
+This page will have multipl text boxes with prompts, the first asking for the name of the event the user wishes to add.
+The second box, below the first, will ask for an adress for said event.
+The 3rd box, below the second, will ask for a description of the event to be added.
+Once a user has filled all their info in and pressed the send button an email will be sent to me (scottondrew@gmail.com)with the info, so I
+can observe the info added and choose wether to add this event or not.
+
 About Page:
 A simple page where I'll describe why I made this app and how it works.
