@@ -2,7 +2,7 @@ This app will provide ease of access to those in need in search of food.
 
 Home Screen:
 The main page the app will open up with will be a page to enter your location into. Once the location is entered, it will bring you to the map page where the food areas closest to you will be displayed.
-There will be a toggle menu on the left side with options to either go to the main page, see an actual list of the food locations page, and an about the app page.
+There will be a toggle menu on the left side with options to either go to the main page, see an actual list of the food locations page, a page to request a food event to be added, and an about the app page.
 
 Main Page:
 A text box will be at the top center, asking for your location.
